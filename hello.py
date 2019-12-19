@@ -31,10 +31,12 @@ class WellnessModoki:
         # print(type(body))
 
         message = body.decode('utf-8')
-
+        # 読み込んだtextファイルの中身を改行で区切ってListに入れる
         message_list = message.splitlines()
+        # message_listに要素を追加
         message_list.append('112.4')
 
+        # 読み込んだテキストファイルを1行ずつ読み込んでfstring形式で表示
         for xx in message_list:
             text = f'''
             あなたの本日の体重は
@@ -42,8 +44,11 @@ class WellnessModoki:
             {xx}kg
             
             '''
+            # fstringで複数行のメッセージを出力できる
+            #print(text)
             print(repr(text))
             print('-----------')
+            # 空白行を詰める
             print(repr(textwrap.dedent(text)))
 
 

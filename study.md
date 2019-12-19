@@ -45,3 +45,9 @@
   * http://note.crohaco.net/2015/python-mock/
   * https://qiita.com/hirokiky/items/02aabbfbf60b9e7d9f16
   * https://qiita.com/aomidro/items/3e3449fde924893f18ca
+  * https://hawksnowlog.blogspot.com/2018/07/how-to-use-unittest-mock.html
+  * https://inokara.hateblo.jp/entry/2017/04/18/093924
+  * http://yamatatsu-blog.hatenablog.com/entry/2018/02/04/143041
+  * https://qiita.com/FGtatsuro/items/eea263bc15ebfb9767cd
+  * https://codeday.me/jp/qa/20190429/730286.html
+  * 
