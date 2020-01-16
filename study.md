@@ -50,4 +50,6 @@
   * http://yamatatsu-blog.hatenablog.com/entry/2018/02/04/143041
   * https://qiita.com/FGtatsuro/items/eea263bc15ebfb9767cd
   * https://codeday.me/jp/qa/20190429/730286.html
-  * 
+
+* fstring
+  * https://qiita.com/QUANON/items/77ce3a9e7e33dbed489b
