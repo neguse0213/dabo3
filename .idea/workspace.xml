@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d8e7138-b32f-452e-a6bd-bedcaff9cb9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fstring_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_sample.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study.md" beforeDir="false" afterPath="$PROJECT_DIR$/study.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -67,6 +66,15 @@
                 <caret line="54" column="55" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array_sample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="30" column="18" selection-start-line="26" selection-end-line="31" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -84,6 +92,7 @@
         <option value="$PROJECT_DIR$/hello.py" />
         <option value="$PROJECT_DIR$/fstring_sample.py" />
         <option value="$PROJECT_DIR$/study.md" />
+        <option value="$PROJECT_DIR$/array_sample.py" />
       </list>
     </option>
   </component>
@@ -222,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576799158166</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fstring学習">
+      <created>1579186641450</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579186641450</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -241,8 +257,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="772" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -253,7 +270,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32941177" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -267,7 +284,8 @@
     <MESSAGE value="README作成・testファイル作成・学習内容更新" />
     <MESSAGE value="mock試行錯誤中" />
     <MESSAGE value="コメント追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="コメント追加" />
+    <MESSAGE value="fstring学習" />
+    <option name="LAST_COMMIT_MESSAGE" value="fstring学習" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/get-pip.py" />
@@ -315,6 +333,13 @@
             <caret line="54" column="55" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array_sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="30" column="18" selection-start-line="26" selection-end-line="31" selection-end-column="17" />
         </state>
       </provider>
     </entry>
