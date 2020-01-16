@@ -9,6 +9,13 @@ print(test_tuple[1])
 
 test_dict = {'name': 'darai', 'num': 5566, 'mail': 'xxx@gmail.com'}
 
+
+del test_dict['num']
+
+# test_dict['other'] = 'hogefuga'
+
+print(test_dict.items())
+
 print(test_dict.get('num'))
 print(test_dict.get('mail'))
 
