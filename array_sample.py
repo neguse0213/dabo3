@@ -37,3 +37,32 @@ print(test_list2)
 
 test_list2.remove(4)
 print(test_list2)
+
+
+a = (1,)
+print(type(a))
+# <class 'tuple'>
+
+b = (1)
+print(type(b))
+# <class 'int'>
+
+c = ('test')
+print(type(c))
+# <class 'str'>
+
+d = {}
+print(type(d))
+# <class 'dict'>
+
+e = set()
+print(type(e))
+# <class 'set'>
+
+f = {'hoge': 'fuga', 'type': 'test'}
+print(type(f))
+# <class 'dict'>
+
+g = {'hoge', 'fuga'}
+print(type(g))
+# <class 'set'>
